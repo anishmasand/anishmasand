@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anishmasand
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on VR/Android/Web/Any cool tech.
+- 💞️ I’m looking to collaborate on Web3.
 - 📫 How to reach me mail:anish.b.masand@gmail.com
 
 <!---
